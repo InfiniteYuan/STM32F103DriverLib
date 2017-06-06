@@ -1,5 +1,5 @@
-# STM32F407DriverLib
-Easier way to program on STM32F407 in C++
+# STM32F103DriverLib
+Easier way to program on STM32F103 in C++
 ======
 
 To make program on STM32 more easier, we packet every peripheral and module as a C++ class, mask operation steps instead of function-oriented interface.
